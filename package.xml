@@ -1,0 +1,4 @@
+<classAccesses>
+      <apexClass>CustomApexClassName</apexClass>
+      <enabled>true</enabled>
+</classAccesses>
